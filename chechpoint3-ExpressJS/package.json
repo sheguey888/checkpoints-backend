@@ -1,0 +1,15 @@
+{
+  "name": "chechpoint2-expressjs",
+  "version": "1.0.0",
+  "description": "In this checkpoint, we are going to create a web application that contains three pages:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
